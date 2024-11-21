@@ -86,6 +86,11 @@ p {
 #hero .imgDrAntonio img {
   object-fit: cover;
 }
+#hero h4,
+h5,
+h2 {
+  color: #0e1111;
+}
 #hero h3 {
   color: aliceblue;
 }
