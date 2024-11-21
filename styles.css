@@ -86,11 +86,6 @@ p {
 #hero .imgDrAntonio img {
   object-fit: cover;
 }
-#hero h4,
-h5,
-h2 {
-  color: #0e1111;
-}
 #hero h3 {
   color: aliceblue;
 }
@@ -108,9 +103,10 @@ h2 {
 #hero button:hover {
   background-color: #49eb85;
 }
-#hero button object {
-  padding-left: 10px;
-  height: 15px;
+#hero h4,
+h5,
+h2 {
+  color: #0e1111;
 }
 
 /* quem somos */
@@ -127,6 +123,10 @@ h2 {
 }
 #quemSomos h5 {
   color: #043957;
+}
+#quemSomos h3,
+h2 {
+  color: #0e1111;
 }
 #quemSomos p {
   color: rgb(44, 44, 44);
@@ -187,6 +187,10 @@ h2 {
   background-size: cover;
   background-position: top 25% right 0;
 }
+#servicosOferecidos h2,
+h3 {
+  color: #0e1111;
+}
 #servicosOferecidos .fe-container {
   display: flex;
   justify-content: space-between;
@@ -246,6 +250,10 @@ h2 {
 }
 #footer1 li {
   text-align: center;
+}
+#footer h2,
+h3 {
+  color: #0e1111;
 }
 #footer2 {
   text-align: center;
