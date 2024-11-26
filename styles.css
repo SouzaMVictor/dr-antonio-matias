@@ -341,6 +341,7 @@ h3 {
   #hero .imgDrAntonio {
     margin-left: -8rem;
     margin-top: 4rem;
+    display: none;
   }
   #quemSomos {
     height: auto;
